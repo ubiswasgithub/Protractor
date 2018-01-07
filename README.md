@@ -1,0 +1,1 @@
+Sample Protractor demo project desinged using POM with Jasmine framework.
